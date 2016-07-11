@@ -1,2 +1,0 @@
-# puzzling
-A puzzle game.
